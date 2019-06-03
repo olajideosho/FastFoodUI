@@ -1,0 +1,11 @@
+C:\Users\zliang\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\zliang\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\zliang\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\zliang\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojResolveAssemblyReference.cache
+C:\Users\zliang\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\zliang\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\zliang\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\zliang\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.Cache
+C:\Users\zliang\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\zliang\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\zliang\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
